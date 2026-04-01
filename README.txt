@@ -39,7 +39,7 @@ REGISTRY KEY:
 HKCU\Software\Microsoft\Windows\CurrentVersion\Run (similar to labs)
 
 FILE DROP: 
-C:\temp\artifact.txt (similar to lab dropping files.)
+C:\(wherever you installed the zip and extracted it)\4484_Final_Repository\artifact.txt (similar to lab dropping files.)
 
 PROCESSES INVOLVED:
 notepad.exe (injection simulation, similar to the demo/labs)
